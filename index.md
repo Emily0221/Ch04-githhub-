@@ -1,37 +1,134 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Emily0221/Ch04-githhub-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<html>
+<head><meta charset="UTF-8"></head>
+<body>
+<center>
+<div id="head">
+<table width="1000" border="0" cellpadding="0" cellspacing="0">
+<tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<td><img src="123.jpg"width="1000" height="100"> </td>
+	
+</tr>
 
-```markdown
-Syntax highlighted code block
+<tr>
+	<td align="center"> <h1> 國立聯合大學電子系陳姿伊的個人網站</h1></td>
+	
+</tr>
+</table>
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+<div id="nav1"><br>
+<table width="1000" border="0" cellpadding="0" cellspacing="1"  bgcolor="#999999">
+<tr>
+	<td bgcolor="#FFFFFF" ><a herf="index.htm">外太空 星系</a>　>　
+<a herf="index.htm">行星</a>　>　星座 </td>
+</tr>
+</table>
+</div>
+</body>
+</html>
 
-- Bulleted
-- List
+<div id="cont"><br/>
+<table border="0" width="1000" cellpadding="0" cellspacing="1"  bgcolor="#999999">
+<tr>
+<td align="center"bgcolor="#FFFFFF"colspan="2"<font size="36"><b>外太空的異想世界</b></font></td>
+</tr>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<tr>
+<td width="115"bgcolor="#FFFFFF"valign="top" >
+<table width="110" cellpadding="0" cellspacing="1">
+<tr>選單列
+<td width="171">星系<img src="https://images.chinatimes.com/newsphoto/2018-02-21/900/20180221003094.jpg" width="80" height="100"></td>
+<tr>
+<tr>
+<td width="171">行星<img src="https://storage.inewsdb.com/2020/05/49a01d74-20200512014728_40756d9ca79251e901e311b446e8101a_1.jpeg" width="80" height="100"> </td>
+<tr>
+<tr>
+<td width="171">星座<img src="https://hbimg.huabanimg.com/47a4e13c6d2211d8624f4cf1e7c283d8779d6772287af-q96RCp_fw658" width="80" height="100"></td>
+<tr>
+</table>
+</td>
 
-[Link](url) and ![Image](src)
-```
+<td width="806" bgcolor="#FFFFFF"valign="top" >
+<table width="800" cellpadding="0" cellspacing="1" >
+<tr>
+<td ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cartwheel_Galaxy.jpg/1024px-Cartwheel_Galaxy.jpg" width="145" height="200"></td> 
+<td ><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Eso1524aArtist%E2%80%99s_impression_of_CR7_the_brightest_galaxy_in_the_early_Universe.jpg" width="145" height="200"></td>
+<td ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hoag%27s_object.jpg/800px-Hoag%27s_object.jpg" width="145" height="200"></td>
+<td ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hubble_Interacting_Galaxy_Arp_148_%282008-04-24%29.jpg/800px-Hubble_Interacting_Galaxy_Arp_148_%282008-04-24%29.jpg" width="145" height="200"></td>
+<td ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Messier_63_GALEX_WikiSky.jpg/1024px-Messier_63_GALEX_WikiSky.jpg" width="145" height="200"></td>
+<tr>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<tr>
+<td ><a href="https://zh.wikipedia.org/wiki/%E8%BB%8A%E8%BC%AA%E6%98%9F%E7%B3%BB" target="_blank">車輪星系</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E7%B4%85%E7%A7%BB7%E8%99%9F%E6%98%9F%E7%B3%BB" target="_blank" >宇宙紅移7號星系</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E9%9C%8D%E6%A0%BC%E5%A4%A9%E4%BD%93" target="_blank" >霍格的天體</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E9%A6%AC%E4%BA%9E%E7%88%BE%E7%9A%84%E5%A4%A9%E9%AB%94" target="_blank" >馬亞爾的天體</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%90%91%E6%97%A5%E8%91%B5%E6%98%9F%E7%B3%BB" target="_blank" >向日葵星系</a></td>
+<tr>
 
-### Jekyll Themes
+<tr>
+<td ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/800px-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg" width="145" height="200"></td> 
+<td ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/800px-The_Earth_seen_from_Apollo_17.jpg" width="145" height="200"></td>
+<td ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg/800px-Jupiter_and_its_shrunken_Great_Red_Spot.jpg" width="145" height="200"></td>
+<td ><img src="https://pic.pimg.tw/c0pp3rsnow/1378955235-10723163_m.jpg" width="145" height="200"></td>
+<td ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg/800px-Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg" width="145" height="200"></td>
+<tr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Emily0221/Ch04-githhub-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<tr>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%98%B3" target="_blank">太陽</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83" target="_blank" >地球</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E6%9C%A8%E6%98%9F" target="_blank" >木星</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%9C%9F%E6%98%9F" target="_blank" >土星</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E6%B5%B7%E7%8E%8B%E6%98%9F" target="_blank" >海王星</a></td>
+<tr>
 
-### Support or Contact
+<tr>
+<td ><img src="https://m.hkir.com/up_img/20180913/49920180913005109.png" width="145" height="200"></td> 
+<td ><img src="https://images.zgchrx.com/file/astro/xzxg/2020-08-14/11a8f1ccf51a3b011dfd1c8d8dc7cfea.png" width="145" height="200"></td>
+<td ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnPbg0I7XHmYe-G3RZ5c-XBNLlImZXDH0QSQ&usqp=CAU" width="145" height="200"></td>
+<td ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQH4mXu-Fx4dny5bOz7FBZXzOufoiEIxLHkNQ&usqp=CAU" width="145" height="200"></td>
+<td ><img src="https://images.zgchrx.com/file/astro/xzxg/2020-08-14/c1c9a601b371ef0fbd8e795bf516317d.png" width="145" height="200"></td>
+<tr>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<tr>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%8F%8C%E9%B1%BC%E5%BA%A7" target="_blank">雙魚座</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%B7%A8%E8%9F%B9%E5%BA%A7" target="_blank" >巨蟹座</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%A7%A4%E5%BA%A7" target="_blank" >天秤座</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E8%9D%8E%E5%BA%A7" target="_blank" >天蠍座</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E6%91%A9%E7%BE%AF%E5%BA%A7" target="_blank" >摩羯座</a></td>
+<tr>
+</table>
+</td>
+
+</tr>
+
+</table>
+</div>
+
+</body>
+</html>
+
+<div id="bottom">
+  <table width="1000" border="0" cellpadding="0" cellspacing="1" bgcolor="#999999">
+    <tr>
+      <td align="center" bgcolor="#FFFFFF"><br />
+        <a href="index.html">&copy版權所有。國立聯合大學電子系。禁止轉貼<br />
+          <br />
+        </a></td>
+    </tr>
+  </table>
+</div>
+<br />
+<br />
+<div id="foot">
+  <table width="1000" border="0" cellpadding="0">
+    <tr>
+      <td align="center"></td>
+    </tr>
+  </table>
+</div>
